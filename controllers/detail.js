@@ -652,7 +652,7 @@ const data = [
 
     },
     {
-        author: 'Vijay kumar',
+        author: 'vijay kumar',
         title: 'Katrina Kaif And Vicky Kaushal Might Share Screen Space In Jee Le Zaraa: Report - NDTV Movies ',
         image: 'https://c.ndtvimg.com/2022-01/qtklueco_katrina-kaif-_625x300_13_January_22.jpg',
         category: 'home',
@@ -665,7 +665,7 @@ const data = [
 
     },
     {
-        author: 'Vijay kumar',
+        author: 'vijay kumar',
         title: " Lily Collins' Emily In Paris renewed for two more seasons at Netflix",
         image: 'https://static.toiimg.com/thumb/38198211.cms?resizemode=75&width=1200&height=900',
         category: 'home',
@@ -677,6 +677,8 @@ const data = [
         explanation: 'Emily In Paris season 2, which debuted in December, topped the Global Netflix Top 10 list with 107.6 million hours viewed from 22 to 26 December, Netflix had said in a statement'
 
     },
+   
+    
     {
         author: 'Vijay kumar',
         title: "OnePlus 10 Pro vs OnePlus 9 Pro: Full Specifications Compared - Moneycontrol",
