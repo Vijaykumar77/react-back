@@ -1,21 +1,21 @@
 
 const data = [
     {
-        author: 'Nicole',
-        title: ' Chris Pratt Holds Daughter Lyla, 1, OnWalk ',
-        image: 'https://hollywoodlife.com/wp-content/uploads/2022/01/Chris-Pratt-Daughter-Lyla-backgrid-ftr.jpg?w=620',
+        author: 'Vijay kumar',
+        title: " The Beatles: Get Back director Peter Jackson on turning the boy band's breakup saga into a 'human story'",
+        image: "https://images.firstpost.com/wp-content/uploads/2020/07/priyanka-nick.jpg?impolicy=website&width=640&height=362",
         category: 'home',
 
         type: 'latest',
-        description: 'The ‘Guardians of the Galaxy’ star sported a cowboy hat, while he had a relaxing morning with his family. ',
+        description:" The Beatles: Get Back director Peter Jackson on turning the boy band's breakup saga into a 'human story'" ,
         date: ' hollywood/ August 21 2017',
         id: '1',
-        explanation: 'Chris Pratt, 42, was a loving father as he cradled his one-year-old daughter Lyla, while he was on a stroll with his wife Katherine Schwarzenegger, 32, on Sunday January 9. The family looked happy on the sunny morning, as Chris rocked a cowboy hat along with his black t-shirt and shorts. Katherine sported a similar all-black outfit, while Lyla wore an adorable beige outfit, as she sat in her dad’s arms. It seemed like a sweet relaxing morning out on the town in Los Angeles. Other than the sweet family outing, Lyla may also be becoming a big sister soon! Katherine is reportedly pregnant with her second child, a source told People on December 16.'
+        explanation: "“Our movie doesn’t show the breaking up of the Beatles,” Peter Jackson said, “but it shows the one singular moment in history that you could possibly say was the beginning of the end.”"
     },
     {
-        author: 'Nicole',
-        title: ' Google Buys Israeli Security Startup Rise Cyberattacks',
-        image: 'https://www.investopedia.com/thmb/FTPjnIl_aMgTodOKwkPaXrASUJo=/680x446/filters:fill(auto,1)/shutterstock_227705986_google_android_robot-5bfc3afbc9e77c00587b1dcf.jpg',
+        author: 'Vijay kumar',
+        title: ' " Motorola Edge X30 to hit global markets as Edge 30 Pro - GSMArena.com news - GSMArena.com"',
+        image: "https://mcdn.wallpapersafari.com/medium/13/25/vZL2wb.jpg",
         category: 'home',
         type: 'latest',
         description: ' A source familiar with the matter said Google paid about $500 million (roughly Rs. 3,730 crore) in cash for Siemplify.',
@@ -26,7 +26,7 @@ const data = [
 
     },
     {
-        author: 'Nicole',
+        author: 'Vijay kumar',
         title: 'Foods to eat to balance the extra salt intake',
         image: 'https://cdn-prod.medicalnewstoday.com/content/images/articles/322/322745/salt-shaker.jpg',
         category: 'home',
@@ -39,7 +39,7 @@ const data = [
 
     },
     {
-        author: 'Nicole',
+        author: 'Vijay kumar',
         title: 'Catch waves with an adventures guide',
         image: 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c2VhJTIwYmVhY2h8ZW58MHx8MHx8&w=1000&q=80',
         category: 'home',
@@ -51,7 +51,7 @@ const data = [
 
     },
     {
-        author: 'Nicole',
+        author: 'Vijay kumar',
         title: 'WhatsApp to revamp iOS chat design in future update',
         image: 'https://images.indianexpress.com/2022/01/whatsapp-ios-update.jpg',
         category: 'home',
@@ -63,7 +63,7 @@ const data = [
 
     },
     {
-        author: 'Nicole',
+        author: 'Vijay kumar',
         title: 'Six exercise at-home fitness challenges to help you reach your goals',
         image: 'https://www.runtastic.com/blog/wp-content/uploads/2016/02/thumbnail_6-helpful-exercises_800x534.jpg',
         category: 'home',
@@ -75,7 +75,7 @@ const data = [
 
     },
     {
-        author: 'Nicole',
+        author: 'Vijay kumar',
         title: 'Vikram first look has Hrithik on wrong side of law, Madhavan calls it ‘epic’.',
         image: 'https://c.ndtvimg.com/2022-01/qu9psmcg_hrithik-roshan_625x300_10_January_22.jpg?im=Resize=(1230,900)',
         category: 'home',
@@ -87,7 +87,7 @@ const data = [
 
     },
     {
-        author: 'Nicole',
+        author: 'Vijay kumar',
         title: 'Have you tried these delicious immunity-boosting Korean teas?',
         image: 'https://thesoulofseoul.net/wp-content/uploads/2017/02/IMG_7195.jpg',
         category: 'home',
@@ -99,7 +99,7 @@ const data = [
 
     },
     {
-        author: 'Nicole',
+        author: 'Vijay kumar',
         title: 'iOS Devices Freeze Due to a HomeKit ',
         image: '',
         category: 'home',
@@ -110,7 +110,7 @@ const data = [
 
     },
     {
-        author: 'Nicole',
+        author: 'Vijay kumar',
         title: 'iOS Devices Freeze Due to a HomeKit ',
         image: '',
         category: 'home',
@@ -121,7 +121,7 @@ const data = [
 
     },
     {
-        author: 'Nicole',
+        author: 'Vijay kumar',
         title: 'iOS Devices Freeze Due to a HomeKit',
         image: '',
         category: 'home',
@@ -132,7 +132,7 @@ const data = [
 
     },
     {
-        author: 'Nicole',
+        author: 'Vijay Kumar',
         title: 'iOS Devices Freeze Due to a HomeKit ',
         image: '',
         category: 'home',
@@ -143,7 +143,7 @@ const data = [
 
     },
     {
-        author: 'Nicole',
+        author: 'Vijay Kumar',
         title: ' Ranveer joins the cast of international fantasy series ',
         image: 'https://st1.bollywoodlife.com/wp-content/uploads/2022/01/Ranveer_Singh_Reimagines_HImself_As_Lanveer_From_The_Wheel_Of_Time.jpg',
         category: 'bollywood',
@@ -155,7 +155,7 @@ const data = [
 
     },
     {
-        author: 'Nicole',
+        author: 'Vijay kumar',
         title: 'Vikram first look has Hrithik on wrong side of law, Madhavan calls it ‘epic’ .',
         image: 'https://c.ndtvimg.com/2022-01/qu9psmcg_hrithik-roshan_625x300_10_January_22.jpg?im=Resize=(1230,900)',
         category: 'bollywood',
@@ -168,7 +168,7 @@ const data = [
 
     },
     {
-        author: 'Nicole',
+        author: 'Vijay kumar',
         title: 'Salman Khan’s ‘Bajrangi Bhaijaan’ sequel ',
         image: 'https://i.ytimg.com/vi/88hftQY1boA/maxresdefault.jpg',
         category: 'bollywood',
@@ -181,7 +181,7 @@ const data = [
 
     },
     {
-        author: 'Nicole',
+        author: 'Vijay kumar',
         title: 'Priyanka Chopra flaunts her new hairstyle to Ariana Grande song New Hair. ',
         image: 'https://images.indianexpress.com/2022/01/priyanka-chopra-new-haircut.jpg',
         category: 'bollywood',
@@ -194,7 +194,7 @@ const data = [
 
     },
     {
-        author: 'Nicole',
+        author: 'Vijay kumar',
         title: ' Kirti Kulhari launches her production house Kintsukuroi Films ',
         image: 'https://i0.wp.com/stat2.bollywoodhungama.in/wp-content/uploads/2022/01/Kirti-Kulhari-launches-her-production-house-Kintsukuroi-Films-announces-first-movie-Nayeka-under-new-banner.jpg?ssl=1',
         category: 'bollywood',
@@ -207,7 +207,7 @@ const data = [
 
     },
     {
-        author: 'Nicole',
+        author: 'Vijay kumar',
         title: ' Allu Arjun Pushpa has an excellent third weekend ',
         image: 'https://images.hindustantimes.com/img/2022/02/04/550x309/Allu_Arjun_1643972725066_1643972746828.jpeg',
         category: 'bollywood',
@@ -219,7 +219,7 @@ const data = [
 
     },
     {
-        author: 'Nicole',
+        author: 'Vijay kumar',
         title: ' Salman to start shooting for Chiranjeevi’s Telugu film ',
         image: 'https://images.newindianexpress.com/uploads/user/imagelibrary/2021/11/15/w1200X800/Salman_Khan.jpg',
         category: 'bollywood',
@@ -231,7 +231,7 @@ const data = [
 
     },
     {
-        author: 'Nicole',
+        author: 'Vijay kumar',
         title: 'Alia Bhatt’s Fees For Gangubai Kathiawadi Will Drop Your Jaws  ',
         image: 'https://www.koimoi.com/wp-content/new-galleries/2022/01/alia-bhatts-fees-for-gangubai-kathiawadi-will-drop-your-jaws-but-it-shouldnt-come-as-a-surprise-deets-inside-001.png',
         category: 'bollywood',
@@ -243,7 +243,7 @@ const data = [
 
     },
     {
-        author: 'Nicole',
+        author: 'Vijay kumar',
         title: ' Keanu Reeves donated 70% Matrix fees for cancer research',
         image: 'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/8-1637611978.jpg?resize=480:*',
         category: 'hollywood',
@@ -256,7 +256,7 @@ const data = [
 
     },
     {
-        author: 'Nicole',
+        author: 'Vijay kumar',
         title: ' Bob Saget tweeted about his ‘2-hour-long’ show night before his death',
         image: 'https://www.giantfreakinrobot.com/wp-content/uploads/2022/01/bob-saget-death-900x506.jpeg',
         category: 'hollywood',
@@ -269,7 +269,7 @@ const data = [
 
     },
     {
-        author: 'Nicole',
+        author: 'Vijay kumar',
         title: ' Selena Gomez Stuns In Plunging BlackTop',
         image: 'https://hollywoodlife.com/wp-content/uploads/2022/01/Selena-Gomez-Plunging-Black-Top-shutter-ftr.jpg',
         category: 'hollywood',
@@ -282,7 +282,7 @@ const data = [
 
     },
     {
-        author: 'Nicole',
+        author: 'Vijay kumar',
         title: ' Minka Kelly Glows In New Selfie & Calls South Africa Trip ‘Holiday Of A Lifetime’',
         image: 'https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AASDewZ.img?h=0&w=600&m=6&q=60&u=t&o=f&l=f&x=211&y=135',
         category: 'hollywood',
@@ -295,7 +295,7 @@ const data = [
 
     },
     {
-        author: 'Nicole',
+        author: 'Vijay kumar',
         title: ' Chris Pratt Holds Daughter Lyla, 1, OnWalk ',
         image: 'https://hollywoodlife.com/wp-content/uploads/2022/01/Chris-Pratt-Daughter-Lyla-backgrid-ftr.jpg?w=620',
         category: 'hollywood',
@@ -307,7 +307,7 @@ const data = [
         explanation: 'Chris Pratt, 42, was a loving father as he cradled his one-year-old daughter Lyla, while he was on a stroll with his wife Katherine Schwarzenegger, 32, on Sunday January 9. The family looked happy on the sunny morning, as Chris rocked a cowboy hat along with his black t-shirt and shorts. Katherine sported a similar all-black outfit, while Lyla wore an adorable beige outfit, as she sat in her dad’s arms. It seemed like a sweet relaxing morning out on the town in Los Angeles. Other than the sweet family outing, Lyla may also be becoming a big sister soon! Katherine is reportedly pregnant with her second child, a source told People on December 16.'
     },
     {
-        author: 'Nicole',
+        author: 'Vijay kumar',
         title: 'Spider-Man No Way Home box office: crosses ₹200 crore',
         image: 'https://resize.indiatvnews.com/en/resize/newbucket/715_-/2021/12/spiderman-1639554053.jpg',
         category: 'hollywood',
@@ -319,7 +319,7 @@ const data = [
         explanation: 'Spider-Man: No Way Home, starring Tom Holland as the titular superhero, has crossed the ₹200 crore mark at the domestic box office. The film has achieved this feat despite restrictions due to rise in Covid-19 cases and competition from films like 83 and Pushpa: The Rise. Spider-Man: No Way Home had released in theatres on December 16 and has made ₹202.34 crore in India so far. Sharing the box office figures of the film, trade analyst Taran Adarsh wrote on Twitter, “#SpiderMan hits ₹200 cr… Restrictions + #PushpaHindi[mass circuits] + #83TheFilm[metros] are speed breakers, but #NewYear holidays + open week prove advantageous in Weekend 3…[Week 3] Fri 3 cr, Sat 4.92 cr, Sun 4.75 cr.Total: ₹202.34 cr Nett '
     },
     {
-        author: 'Nicole',
+        author: 'Vijay kumar',
         title: 'Brad Pitt Hoping for a More Positive Year as He Turns 58',
         image: 'https://www.thenews.com.pk/assets/uploads/updates/2021-12-18/917772_8194107_Untitled-2_updates.jpg',
         category: 'hollywood',
@@ -331,7 +331,7 @@ const data = [
         explanation: 'Brad Pitt is keeping it "low-key" for his birthday weekend.The two-time Academy Award winner does not intend to go all out with the festivities when he marks his 58th trip around the sun on Saturday. "He plans to have a low-key birthday. Just sort of hanging out," an insider tells PEOPLE. "He is staying low- key in general.That really the kind of guy he is anyway," the source says, adding that since his birthday is at the end of the year, "it is a natural time for reflection for him." Pitt has had a busy year, filming two movies with Sandra Bullock. He makes a cameo in her upcoming romantic comedy adventure The Lost City, which also stars Channing Tatum; and, along with Joey King and Bad Bunny, he and Bullock also filmed Bullet Train in Los Angeles earlier this year.'
     },
     {
-        author: 'Nicole',
+        author: 'Vijay kumar',
         title: 'Justin Bieber And Hailey Baldwin Take A Tour Of London',
         image: 'https://www.iwmbuzz.com/wp-content/uploads/2021/03/justin-bieber-hailey-baldwins-most-romantic-kiss-moments-together-that-went-viral-920x518.jpeg',
         category: 'hollywood',
@@ -343,7 +343,7 @@ const data = [
         explanation: 'Justin Bieber and Hailey Bieber can be seen walking side by side on the sidewalk in the photos! While posing for the camera, the two can also be seen holding hands. Hailey and Justin are seen kissing in two of the photographs, indicating that they are putting on the PDA! The duo can be seen kissing on the pavement in one photo and sharing a kiss inside a red telephone booth in another! Fans praised the photos and the couple in the comments section, urging them to share more from their trip. While some admirers used heart emojis in their comments, others stated that the two are incredibly adorable together! One fan responded, “Cute,” while another wrote, “Miss you all.” '
     },
     {
-        author: 'Nicole',
+        author: 'Vijay kumar',
         title: '  Sony to Establish New Electric Vehicle Company',
         image: 'https://www.nippon.com/en/ncommon/contents/currents/48486/48486.jpg',
         category: 'technology',
@@ -355,7 +355,7 @@ const data = [
 
     },
     {
-        author: 'Nicole',
+        author: 'Vijay kumar',
         title: '  Intel Launches 12th Gen Intel Core Mobile Processors',
         image: 'https://digitalmasta.com/wp-content/uploads/2021/01/intel_alder_lake-1024x576.jpg',
         category: 'technology',
@@ -367,7 +367,7 @@ const data = [
 
     },
     {
-        author: 'Nicole',
+        author: 'Vijay kumar',
         title: ' Robotic Hand With Gecko-Inspired Strong Grip',
         image: 'https://akhbar24news.com/wp-content/uploads/2021/12/1639773822_A-robotic-hand-inspired-by-the-gecko-to-easily-grasp.jpg',
         category: 'technology',
@@ -379,7 +379,7 @@ const data = [
 
     },
     {
-        author: 'Nicole',
+        author: 'Vijay kumar',
         title: '  World’s Smallest MEMS Speaker For TWS and Hearing Aid Applications',
         image: 'https://hearinghealthmatters.org/wp-content/uploads/2022/01/xmems.jpg',
         category: 'technology',
@@ -391,7 +391,7 @@ const data = [
 
     },
     {
-        author: 'Nicole',
+        author: 'Vijay kumar',
         title: 'WhatsApp to revamp iOS chat design in future update  ',
         image: 'https://images.indianexpress.com/2022/01/whatsapp-ios-update.jpg',
         category: 'technology',
@@ -403,7 +403,7 @@ const data = [
 
     },
     {
-        author: 'Nicole',
+        author: 'Vijay kumar',
         title: ' Google Buys Israeli Security Startup Amid Rising Cyberattacks',
         image: 'https://www.investopedia.com/thmb/FTPjnIl_aMgTodOKwkPaXrASUJo=/680x446/filters:fill(auto,1)/shutterstock_227705986_google_android_robot-5bfc3afbc9e77c00587b1dcf.jpg',
         category: 'technology',
@@ -417,7 +417,7 @@ const data = [
 
     },
     {
-        author: 'Nicole',
+        author: 'Vijay kumar',
         title: 'Electrically Switchable Nanoantennas Enable Dynamic Holographic Tech',
         image: 'https://www.electronicsforu.com/wp-contents/uploads/2021/12/Electrically-Switchable-Nanoantennas.jpg',
         category: 'technology',
@@ -430,7 +430,7 @@ const data = [
 
     },
     {
-        author: 'Nicole',
+        author: 'Vijay kumar',
         title: 'Optical Oscilloscope That Could Change Communication Technologies ',
         image: 'https://scitechdaily.com/images/Michael-Chini.jpg',
         category: 'technology',
@@ -442,7 +442,7 @@ const data = [
 
     },
     {
-        author: 'Nicole',
+        author: 'Vijay kumar',
         title: 'You must have gajar-mooli ka achar in winters and its health benefits',
         image: 'http://569471-1838595-raikfcquaxqncofqfm.stackpathdns.com/hindi/wp-content/uploads/2021/04/website-FB-template-19.jpg',
         category: 'food',
@@ -456,7 +456,7 @@ const data = [
 
     },
     {
-        author: 'Nicole',
+        author: 'Vijay kumar',
         title: 'unique Broccoli Amla Halwa can boost immunity and lower heart attack risk',
         image: 'https://static.toiimg.com/photo/88809068.cms',
         category: 'food',
@@ -469,7 +469,7 @@ const data = [
 
     },
     {
-        author: 'Nicole',
+        author: 'Vijay kumar',
         title: 'Is it safe to eat eggs during periods ?',
         image: 'https://thekitchencommunity.org/wp-content/uploads/2021/09/hard-boiled-eggs-shutterstock_1935247175.jpg',
         category: 'food',
@@ -482,7 +482,7 @@ const data = [
 
     },
     {
-        author: 'Nicole',
+        author: 'Vijay kumar',
         title: 'Is healthy food for kids and adults same?',
         image: 'https://lastenmetsola.fi/en/wp-content/uploads/2020/07/iStock-904661696_0.jpg',
         category: 'food',
@@ -495,7 +495,7 @@ const data = [
 
     },
     {
-        author: 'Nicole',
+        author: 'Vijay kumar',
         title: ' you can make the original garam masala at home',
         image: 'https://media.npr.org/assets/img/2011/04/27/garammasalamain_wide-279acaa306be44d3c3f5afe6440fcc9a55e10921.jpg',
         category: 'food',
@@ -508,7 +508,7 @@ const data = [
 
     },
     {
-        author: 'Nicole',
+        author: 'Vijay kumar',
         title: 'Foods you must never pair with milk',
         image: 'https://i0.wp.com/feeds.abplive.com/onecms/images/uploaded-images/2022/01/23/24a5df5c8d503b4f0e31cd9993e35bd2_0.jpg?w=696&ssl=1',
         category: 'food',
@@ -522,7 +522,7 @@ const data = [
 
     },
     {
-        author: 'Nicole',
+        author: 'Vijay kumar',
         title: ' These delicious immunity-boosting Korean teas',
         image: 'https://upload.wikimedia.org/wikipedia/commons/a/a5/Korean.tea-Daechucha-01.jpg',
         category: 'food',
@@ -535,7 +535,7 @@ const data = [
 
     },
     {
-        author: 'Nicole',
+        author: 'Vijay kumar',
         title: 'Foods to eat to balance the extra salt intake',
         image: 'https://cdn-prod.medicalnewstoday.com/content/images/articles/322/322745/salt-shaker.jpg',
         category: 'food',
@@ -548,7 +548,7 @@ const data = [
 
     },
     {
-        author: 'Nicole',
+        author: 'Vijay kumar',
         title: 'Reasons you could be struggling to lose weight',
         image: 'https://static.toiimg.com/photo/71941372.cms',
         category: 'fitness',
@@ -561,7 +561,7 @@ const data = [
 
     },
     {
-        author: 'Nicole',
+        author: 'Vijay kumar',
         title: 'Malaika Arora  daily fitness routine',
         image: 'https://images.hindustantimes.com/img/2021/04/14/1600x900/pjimage_(19)_1618404672416_1618404683782.jpg',
         category: 'fitness',
@@ -574,7 +574,7 @@ const data = [
 
     },
     {
-        author: 'Nicole',
+        author: 'Vijay kumar',
         title: 'Six at- home fitness challenges to help you reach your goals',
         image: 'https://www.runtastic.com/blog/wp-content/uploads/2018/08/thumbnail_1200x800-1-1024x683.jpg',
         category: 'fitness',
@@ -587,7 +587,7 @@ const data = [
 
     },
     {
-        author: 'Nicole',
+        author: 'Vijay kumar',
         title: '‘I eat 6 times a day; all my meals have carbs’',
         image: 'https://images.indianexpress.com/2021/12/Taapsee-Pannu-1200-1.jpg',
         category: 'fitness',
@@ -600,7 +600,7 @@ const data = [
 
     },
     {
-        author: 'Nicole',
+        author: 'Vijay kumar',
         title: 'Tisca Chopra shares ways to stay fit',
         image: 'https://images.hindustantimes.com/img/2021/02/01/550x309/pjimage_-_2021-02-01T180311.159_1612182818049_1612182825821.jpg',
         category: 'fitness',
@@ -613,7 +613,7 @@ const data = [
 
     },
     {
-        author: 'Nicole',
+        author: 'Vijay kumar',
         title: 'Last nine months have been gruelling but life-changing: Adarsh Gourav',
         image: 'https://images.mid-day.com/images/images/2021/oct/Adarsh-Gourav-a_d.jpg',
         category: 'fitness',
@@ -626,7 +626,7 @@ const data = [
 
     },
     {
-        author: 'Nicole',
+        author: 'Vijay kumar',
         title: 'Fitness trainer highlights the importance of lifting heavy weights',
         image: 'https://titaniumsuccess.com/wp-content/uploads/2015/10/Lighter-Weights-business-coaching-1280x720.jpg',
         category: 'fitness',
@@ -639,7 +639,7 @@ const data = [
 
     },
     {
-        author: 'Nicole',
+        author: 'Vijay kumar',
         title: ' Chris Hemsworth shows how to get in shape',
         image: 'https://cdn.mos.cms.futurecdn.net/Vj5qeUEavZK2kAcuZJi4F4-768-80.jpg',
         category: 'fitness',
@@ -652,42 +652,42 @@ const data = [
 
     },
     {
-        author: 'Nicole',
-        title: 'Title of vertical home ',
-        image: 'https://media.istockphoto.com/photos/road-in-the-autumn-forest-in-rain-perfect-asphalt-mountain-road-in-picture-id1084242954?k=20&m=1084242954&s=612x612&w=0&h=Ipn8600vDpDH7bD86T3os4r0YBeiJE3NaPpG2MNPpv8=',
+        author: 'Vijay kumar',
+        title: 'Katrina Kaif And Vicky Kaushal Might Share Screen Space In Jee Le Zaraa: Report - NDTV Movies ',
+        image: 'https://c.ndtvimg.com/2022-01/qtklueco_katrina-kaif-_625x300_13_January_22.jpg',
         category: 'home',
 
         type: "gallery",
-        description: 'Title of vertical home ',
-        date: 'Travel / August 21 2017',
+        description: 'The film will also star Priyanka Chopra and Alia Bhatt in the lead roles along with Katrina Kaif ',
+        date: 'January 15 2022',
         id: '53',
-        explanation: 'The Rainy Season or more formally addressed as the monsoon season reaches India around the mid of June and stays until late august/early September. This season is primarily categorized by heavy incessant rainfall and humid conditions. Despite the prevalence of humidity, the cool showers bring much-needed respite from the scorching sun. As it rains, dry barren ponds and puddles are infused with life again. Rivers, yet again, flow at their full capacity and birds chirp all day long. Rains have, since times immemorial, been the favorite season of the land. It fuels flora and fauna enough to bear the brunt of dry barren summers and harsh freezing winters. Flowers bloom in all their full grandeur and crop roots soak up water during this time of the year.'
+        explanation: 'The Uri actor, who is in Indore for his work commitments, recently took to his Instagram Story section to share a glimpse of him enjoying sweets before the festivities.'
 
     },
     {
-        author: 'Nicole',
-        title: 'The sound cloud you loved ',
+        author: 'Vijay kumar',
+        title: " Lily Collins' Emily In Paris renewed for two more seasons at Netflix",
         image: 'https://static.toiimg.com/thumb/38198211.cms?resizemode=75&width=1200&height=900',
         category: 'home',
 
         type: "gallery",
-        description: 'The sound cloud you loved ',
-        date: 'Travel / August 21 2017',
+        description: " Lily Collins' Emily In Paris renewed for two more seasons at Netflix",
+        date: "Januaury 15 2022",
         id: '54',
-        explanation: 'Last year, in June I went for a visit to the hill stations named Gaddigaon and Zuluk, which is located in the East Sikkim. During June, it was utterly monsoon in East Sikkim. That was a fantastic feeling while experiencing the monsoon weather of the hill stations with my husband and that was a truly memorable trip for us. It was frequently raining throughout the day along with the cold and misty weather. Drenching in the rain waters in that cold weather was an inexpressible feeling. All the places were covered with clouds and mists, and there was the expansion of greenery all around the hills. In Gaddigaon, we stayed in a resort, from where we had a mesmerizing view of the range of mountains covered with clouds. In the resort, there was a small sitting area, beautifully decorated with the crafted wooden benches and a hut-like shade of straw and bamboo, where we used to sit for long and enjoy the pleasure of watching the mighty ranges of the Kanchenjunga Mountains covered with clouds. During the night it was really amazing to view the glittering lower valley of the entire East Sikkim. From Gaddigaon on the way to Zuluk, we encountered several mesmerizing waterfalls and scenic beauty of the mountains and clouds which left us spellbound. It was an entirely new experience the beauty monsoon in the hills. Though the old silk route to Zuluk was quite risky and accident-prone yet it was an outstanding feel of adventure while exploring the old silk route. We took some beautiful snaps of the beauty of monsoon in the hills and even daringly drenched in the chilled waters of the flowing waterfalls.'
+        explanation: 'Emily In Paris season 2, which debuted in December, topped the Global Netflix Top 10 list with 107.6 million hours viewed from 22 to 26 December, Netflix had said in a statement'
 
     },
     {
-        author: 'Nicole',
-        title: 'Nature cloud is doomed ',
-        image: 'https://img.traveltriangle.com/blog/wp-content/uploads/2019/05/shutterstock_1147579682.jpg',
+        author: 'Vijay kumar',
+        title: "OnePlus 10 Pro vs OnePlus 9 Pro: Full Specifications Compared - Moneycontrol",
+        image: '"https://images.moneycontrol.com/static-mcnews/2022/01/oneplus-10-pro-vs-oneplus-9-pro-770x433.jpg"',
         category: 'home',
 
         type: "gallery",
-        description: 'Nature cloud is doomed ',
+        description: 'OnePlus 10 Pro vs OnePlus 9 Pro: Full Specifications Compared - Moneycontrol',
         date: 'Travel / August 21 2017',
         id: '55',
-        explanation: 'Monsoon in Himachal Pradesh is from July to September. The hills turn a lush green from all sides and Dalhousie gets most of the rain. However, although the rain turns the state mesmerising, there is an increased danger of landslides at this time so it’s always better to be forewarned. While not so great for adventure seekers as trekking and hiking are not allowed, Nature’s bounty is splendid during this season and with the light mist and beautiful atmosphere, you will have an unforgettable holiday if you visit Spiti, Kinnaur, Kasauli or McLeod Ganj. Most often, people avoid visiting Himachal Pradesh during the monsoons because of the unexpectedness of the rainfall and the possibility of landslides. But train and flight fares are relatively lower, and hotels offer off-season discounts. Remember to carry an umbrella and a few warm clothes as it can get quite cool when it rains.Himachal Pradesh in the monsoons is like tonic for the soul.If you’re the kind of person who doesn’t mind a few inconveniences such as getting wet in a sudden downpour, you will love visiting Himachal during the rains.The fine mist in the air, the sudden chill that makes you shiver, the brilliant verdant green of the tree covered mountains – all these will surely be imprinted on your mind for a long time. '
+        explanation: '  Find out how the OnePlus 10 Pro compares against its predecessor. '
 
     },
 
